@@ -10,6 +10,7 @@ string Extendsion_of_name(string user_input){
     return combine_name ;
 }
 
+//Test of commit.
 int main(){
     string enter_name ;
     cin >> enter_name  ; 
